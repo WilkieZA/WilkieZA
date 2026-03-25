@@ -1,112 +1,84 @@
-# 👋 Hi there! I'm **Louis Wilkinson**  
-_Aspiring Data Scientist / Machine Learning Engineer_
+# Hi there! I'm **Louis Wilkinson**
 
-🌍 **Location:** Cape Town, South Africa  
-📧 **Email:** louiswilkinson.mail@gmail.com  
+**Data Scientist / AI Engineer at Games Global** | Cape Town, South Africa
 
 ---
 
-## 📚 About Me
+## About Me
 
-I am a **fourth-year** Data Science student at **Stellenbosch University** with a passion for **data science**, **machine learning**, and the **transformative power of AI**. My love for **coding** and **mathematics** fuels my continuous drive to learn and adapt in this fast-paced field.
+I'm a Data Scientist with a strong foundation in machine learning, mathematical statistics, and operations research. I graduated **Cum Laude** from **Stellenbosch University** with a **BDatSci in Analytics and Optimisation** (83.6% average), ranking **1st in my degree programme** across the full four-year degree.
 
-In my **free time**, I work on **AgriTrekker**, a tech startup I co-founded with two friends from university. We focus on innovating solutions for the agricultural sector using technology. I also gain practical experience through **vacation work** as a **Data Science Intern at Games Global**, where I work on **reinforcement learning models**, **predictive models**, **recommender systems**, and much more. 
+My final-year research project explored **Natural Language Processing in Afrikaans**, where I built a next-word prediction system comparing a small-scale GPT-2 model against traditional methods — achieving a **30.64% keystroke saving** over manual typing.
 
----
+I now work full-time at **Games Global**, where I previously completed multiple internships spanning reinforcement learning, predictive modelling, recommender systems, and data engineering.
 
-## 💻 Skills
-
-- **Programming Languages:**  
-  `Python`, `R`, `SQL`, `Java`, `C`, `C#`, `Dart (Flutter)`, `Typescript`, `JavaScript`, `HTML`, `CSS`, `Delphi`
-  
-- **Cloud & Data Technologies:**  
-  `AWS`, `Google Cloud`, `Azure`, `Firebase`, `Supabase`, `Snowflake`
-  
-- **Machine Learning & AI Tools:**  
-  `CUDA` (NVIDIA GPU Training), `Hugging Face`, `AWS`, `Anaconda`, `Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, and various other libraries for Machine Learning tasks.
-  
-- **Software Engineering:**  
-  `Data Engineering`, `Feature Engineering`, `Algorithms`, `Web Hosting (Google Cloud, AWS)`
-
-- **Key Strengths:**  
-  - **Problem Solving**  
-  - **Continuous Learning**  
-  - **Innovative AI Solutions**  
-  - **Effective Use of AI in Real-World Applications**
+On the side, I co-founded **AgriTrekker**, a tech startup building innovative solutions for the agricultural sector.
 
 ---
 
-## 🎓 Education
+## Skills
 
-**Bachelor's Degree in Data Science (BDatSci) - 4 year degree**  
-_Stellenbosch University_ | **2022 - 2025**  
-- **Grade:** 84% Aggregate (3.7 GPA) over the first 3 years
-- **Core Focus:** Machine Learning, Data Science, AI, Mathematics, Operations Research  
-- **Achievements:**  
-  - 22 out of 25 modules passed with distinction  
-  - 86%+ final mark in more than half of my modules  
-  - 88% average in computer science, 87% average in mathematics and operations research modules  
+**Languages:**
+`Python` · `R` · `SQL` · `Java` · `C` · `C#` · `Dart (Flutter)` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
-**High School Diploma**  
-_Paarl Boys’ High School_ | **2017 - 2021**  
-- **Grade:** 91.86% (4.0 GPA)  
-- **Achievements:**  
-  - Second Dux Student of 2021  
-  - 96% in Information Technology, 95% in Mathematics  
+**ML & AI:**
+`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `Hugging Face` · `CUDA` · `AWS SageMaker` · `NLP` · `Reinforcement Learning` · `Deep Learning` · `Recommender Systems`
+
+**Data & Cloud:**
+`Snowflake` · `DBT` · `Apache Airflow` · `AWS` · `Google Cloud` · `Azure` · `Firebase` · `Supabase`
+
+**Core Competencies:**
+`Feature Engineering` · `Predictive Modelling` · `Mathematical Statistics` · `Operations Research` · `Data Engineering`
 
 ---
 
-## 🧑‍💻 Experience
+## Experience
 
-### **Data Science Intern**  
-_Games Global_ | **Jul 2024; Jan 2025 (5 weeks)**  
-- Built **reinforcement learning models**, **predictive models**, and **recommender systems** using a variety of ML tools and techniques.  
-- Worked with **SQL**, **feature engineering**, **machine learning** frameworks, and learnt about the deployment of these models in production.
+### Data Scientist Level 1 — Games Global
+_Jan 2026 – Present · Cape Town (On-site)_
+- Focused on **AI engineering** — building, deploying, and integrating AI solutions into production systems.
 
-### **Computer Science Teaching Assistant**  
-_Stellenbosch University_ | **Dec 2023 - Jan 2024**  
-- Assisted first-year students in tutorials, helping them grasp key concepts.  
-- Graded projects and provided support for academic growth.
+### Bursary Programme Participant — Games Global
+_Nov 2023 – Jan 2026_
+- Completed three internship rotations covering **reinforcement learning**, **predictive modelling**, **recommender systems**, **SQL**, **feature engineering**, and **data engineering**.
+- Built RL agents, predictive models, and recommender systems using a variety of ML tools and techniques.
 
-### **Data Science Academic Mentor**  
-_Eendrag Men’s Residence_ | **2023-2024**  
-- Mentored first-year students to help them navigate university life and academic challenges.  
+### Academic Mentor (Data Science) — Eendrag Men's Residence
+_Feb 2023 – Jan 2026_
 
-### **Mathematician (ML) Intern**  
-_Games Global_ | **2023**  
-- Developed **reinforcement learning agents** for blackjack and explored game mathematics in the iGaming industry.  
+### CS Teaching Assistant — Stellenbosch University
+_Feb 2023 – Jul 2023_
 
-### **Co-founder & Software Developer**  
-_AgriTrekker_ | **Present**  
-- Co-founded a tech startup to create innovative solutions for the agricultural sector.
+### Co-founder & Developer — AgriTrekker
+_Ongoing_
+- Co-founded a tech startup building solutions for the agricultural sector using Flutter, Firebase, and Next.js.
 
 ---
 
-## 📈 Achievements
+## Education
 
-- **Top Marks:**  
-  - 91.86% average in high school (4.0 GPA)
-  - **8 distinctions** during school studies
-  - **Second Dux Student** 2021  
-  - 96% in IT, 95% in Mathematics  
+**BDatSci, Analytics and Optimisation (Cum Laude)**
+_Stellenbosch University · 2022 – 2025_
+- **83.6%** weighted average · **1st in programme** (Top Student award)
+- Senior Undergraduate Merit Award (top 5% of faculty) — 2023, 2024, 2025
+- OPTIMUS Programme member (top 30 students in faculty)
+- Eendrag Residence Excellence Award in Academics — 2022, 2023, 2025
 
-- **Honors:**
-  - **22 distinctions** during the first 3 years of my University studies
-  - **88% average** over all computer science modules taken
-    - CS 113 (Introduction to CS)
-    - CS 144 (Introduction to CS 2)
-    - CS 214 (Data Structures and Algorithms)
-    - CS 244 (Computer Architecture)
-    - CS 315 (Machine Learning)
-    - CS 343 (Databases and Web Programming)
-  - **87% average** over all mathematics and operations research modules taken
+**High School Diploma**
+_Paarl Boys' High School · 2017 – 2021_
+- **91.86%** average · 8 distinctions · Second Dux Student
+- 96% Information Technology · 95% Mathematics
 
 ---
 
-## 🔗 Connect With Me
+## Certifications
 
-- **LinkedIn:** [Louis Wilkinson](https://www.linkedin.com/in/la-wilkinson/)  
+- AWS Certified Machine Learning — Specialty (MLS-C01) Exam Prep
+- AWS SageMaker · Data Engineering · Applied ML (LinkedIn Learning)
 
 ---
 
-🚀 *I’m always looking to collaborate on innovative projects and grow my skills further in the world of AI and Machine Learning. Let's connect!* 🌱
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la-wilkinson/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:louiswilkinson.mail@gmail.com)
