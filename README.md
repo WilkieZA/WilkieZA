@@ -12,7 +12,11 @@ My final-year research project explored **Natural Language Processing in Afrikaa
 
 I now work full-time at **Games Global**, where I previously completed multiple internships spanning reinforcement learning, predictive modelling, recommender systems, and data engineering.
 
-On the side, I co-founded **AgriTrekker**, a tech startup building innovative solutions for the agricultural sector.
+On the side, I co-founded **AgriTrekker**, a tech startup building innovative solutions for the agricultural sector, with multiple clients. https://agritrekker.co.za
+
+I'm also a solo founder of Stip, and AI native payroll platform, which is in private testing at the moment, https://stip.co.za
+
+And then during university, I developed an ecommerce platform for my dad, who is a photographer, to sell photos on, https://wilkinsonmedia.co.za
 
 ---
 
